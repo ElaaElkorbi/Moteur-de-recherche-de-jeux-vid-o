@@ -1,1 +1,1 @@
-# Moteur-de-recherche-de-jeux-vid-o
+# Moteur-de-recherche-de-jeux-video
